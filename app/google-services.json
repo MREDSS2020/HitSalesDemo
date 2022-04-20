@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1028982454747",
+    "project_id": "decent-subset-336106",
+    "storage_bucket": "decent-subset-336106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028982454747:android:b35863c458de240cb14ffe",
+        "android_client_info": {
+          "package_name": "com.edss.sales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028982454747-0g1o4bucovn7osrrugjg8b151b765rur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edss.sales",
+            "certificate_hash": "b0c45930f5f26c0edd2ad8615ef8fc768d86af6f"
+          }
+        },
+        {
+          "client_id": "1028982454747-kbts2uqdgj8ls5uv1l89orb82r7o14ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7Xh49MRjecE8tRxUzXspHxybbkwLSAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028982454747-kbts2uqdgj8ls5uv1l89orb82r7o14ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

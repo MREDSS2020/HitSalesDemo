@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:visible="false"
+        android:id="@+id/sortings"
+        android:title="Sorting Criteria"
+        android:icon="@drawable/sorting"
+        app:showAsAction="never" />
+
+
+    <item
+        android:visible="false"
+        android:id="@+id/freezone"
+        android:title="Free zone"
+        android:icon="@android:drawable/arrow_up_float"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/FlatAvailability"
+        android:title="Flat Availability"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Logout"
+        android:title="Logout"
+        android:icon="@mipmap/logout"
+        app:showAsAction="never" />
+</menu>

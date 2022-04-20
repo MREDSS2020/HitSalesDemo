@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary1">#4A6572</color>
+    <color name="colorPrimaryDark">#344955</color>
+    <color name="colorAccent">#F9AA33</color>
+
+    <color name="colorPrimary">#421763</color>
+    <color name="colorPrimaryDark1">#64308C</color>
+
+    <color name="greenn1">#4B5A20</color>
+    <color name="greenn2">#787D12</color>
+    <color name="greenn3">#7E6E13</color>
+    <!--<color name="colorPrimary">#F44336</color>-->
+    <!--<color name="colorPrimaryDark">#FF5252</color>-->
+    <!--<color name="colorAccent">#FFA726</color>-->
+
+    <color name="Sold">#F8B686 </color>
+    <color name="OnHold">#ff6700</color>
+    <color name="UnSold">#00b300</color>
+    <color name="NotToSell">#fff000</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray1">#4d4d4d</color>
+    <color name="gray2">#808080	</color>
+    <color name="gray3">#999999</color>
+    <color name="gray4">#D3D3D3	</color>
+    <color name="gray5">#696969</color>
+    <color name="gray6">#344955</color>
+
+    <color name="backred">#ffcccc</color>
+    <color name="backgreen">#DEEDD8</color>
+</resources>
